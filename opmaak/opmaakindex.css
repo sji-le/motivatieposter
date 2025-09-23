@@ -1,6 +1,6 @@
 body{
 	background-color: black;
-	width: 100%;
+	text-align: center;
 }
 
 h1{
@@ -24,22 +24,19 @@ h3{
 }
 
 img{
-	width: 40%;
+	margin-top: 100px;
+	width: 100%;
 	border-style: solid;
+	border-radius: 10px;
 	border-color: white;
-	border-radius: 5px;
 }
 
-.eerstefoto{
-	text-align: center;
+.opmaakposter{
+	width: 50%;
+	margin-left: 25%;
 }
 
-.tweedefoto{
-	text-align: center;
-	margin-top: 50px;
-}
-
-.derdefoto{
-	text-align: center;
-	margin-top: 50px;
+.opmaakafbeelding{
+	width: 25%;
+	margin: 25px;
 }
