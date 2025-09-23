@@ -23,12 +23,16 @@ p{
 	font-size:15px;
 }
 
-strong{
-	color: darkred;
-}
-
 .opmaakpagina{
 	width:50%;
 	margin-left: 25%;
 	margin-top: 50px;
+}
+
+#rood{
+	color: darkred;
+}
+
+#geel{
+	color: yellow;
 }
